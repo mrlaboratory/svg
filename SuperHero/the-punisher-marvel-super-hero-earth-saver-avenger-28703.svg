@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g>
+	<path opacity="0.2" fill="#212121" d="M128,247.322C62.1,247.322,8.678,193.9,8.678,128C8.678,194.274,62.1,248,128,248   s119.322-53.726,119.322-120C247.322,193.9,193.9,247.322,128,247.322z"/>
+	<path opacity="0.2" fill="#9E9E9E" d="M128,8.678C193.9,8.678,247.322,62.1,247.322,128C247.322,61.726,193.9,8,128,8   S8.678,61.726,8.678,128C8.678,62.1,62.1,8.678,128,8.678z"/>
+	<circle cx="128" cy="128" r="119.322"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="75.9086" y1="75.098" x2="212.7741" y2="211.9635">
+	<stop offset="0" style="stop-color:#FAFAFA;stop-opacity:0.2"/>
+	<stop offset="1" style="stop-color:#FAFAFA;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M246.414,142.752c-0.377-0.389-79.319-79.327-79.76-79.76c-9.551-10.001-22.817-16.603-38.969-17.008  c-34.309-0.86-55.243,29.172-55.281,59.786c-0.009,7.528,1.249,15.089,3.878,22.236c2.973,8.015,7.712,15.498,14.363,21.814  c0.434,0.439,0.859,0.882,1.31,1.31c0.434,0.439,14.633,14.643,14.747,14.757v42.877l37.995,37.389  C197.881,238.705,239.823,196.206,246.414,142.752z"/>
+<g>
+	<path opacity="0.2" fill="#9E9E9E" d="M127.685,46.662c34.257,0.852,55.545,29.339,55.907,59.031   c-0.276-30.006-21.579-58.848-55.907-59.709c-34.309-0.86-55.243,29.172-55.281,59.786C72.526,75.473,93.445,45.811,127.685,46.662   z"/>
+	<path fill="#FFFFFF" d="M163.002,152.169c7.92-7.014,13.409-15.33,16.719-24.166c2.687-7.231,3.94-14.806,3.871-22.31   c-0.362-29.692-21.65-58.179-55.907-59.031c-34.24-0.851-55.16,28.811-55.281,59.109c-0.009,7.528,1.249,15.089,3.878,22.236   c3.35,9.03,8.927,17.394,16.973,24.163c4.581-1.182,9.162-3.694,13.447-7.241v0.141v63.695h5.91v-63.695v-0.141h6.354v0.141v63.695   h5.911v-63.993v-0.139h6.206v0.139v64.584h6.354v-64.882v-0.136h5.911v0.136v63.996h5.911v-62.804v-0.146   C153.988,149.214,158.569,150.544,163.002,152.169z"/>
+</g>
+<g>
+	<path d="M170.982,101.337l-36.203,23.2c8.718,4.876,31.623,6.502,35.76-4.876C172.903,113.306,170.982,101.337,170.982,101.337   L170.982,101.337z"/>
+	<path d="M86.014,101.337l36.351,23.2c-8.866,4.876-31.77,6.502-35.908-4.876C84.093,113.306,86.014,101.337,86.014,101.337   L86.014,101.337z"/>
+</g>
+
+	
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="The, Punisher, Marvel, Super, Hero, Earth, Saver, Avenger" dc:description="The, Punisher, Marvel, Super, Hero, Earth, Saver, Avenger" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Sagar Unagar</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

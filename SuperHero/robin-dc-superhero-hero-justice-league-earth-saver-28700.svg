@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g>
+	<g>
+		<path opacity="0.2" fill="#B71C1C" d="M128,247.322C62.1,247.322,8.678,193.9,8.678,128C8.678,194.274,62.1,248,128,248    s119.322-53.726,119.322-120C247.322,193.9,193.9,247.322,128,247.322z"/>
+		<path opacity="0.2" fill="#FFFFFF" d="M128,8.678C193.9,8.678,247.322,62.1,247.322,128C247.322,61.726,193.9,8,128,8    S8.678,61.726,8.678,128C8.678,62.1,62.1,8.678,128,8.678z"/>
+		<circle fill="#F44336" cx="128" cy="128" r="119.322"/>
+	</g>
+	<path opacity="0.2" fill="#BF360C" d="M187.757,82.77c-0.004-0.151,0.01-0.302,0.001-0.453c-0.233-3.614,0.858-44.197-113.856,1.43   c-2.588,3.316-5.146,7.02-5.146,7.02s0.126-0.039,0.344-0.105c0.778-1.099,2.778-3.892,4.802-6.458   C188.449,39.112,187.528,79.093,187.757,82.77z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="76.7896" y1="81.3157" x2="210.1078" y2="214.6339">
+		<stop offset="0" style="stop-color:#212121;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#212121;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M128,247.322c63.558,0,115.502-49.696,119.114-112.349c-0.133-0.129-63.426-63.458-63.831-63.831   C174.7,61.711,149.35,54.504,73.902,84.203c-2.024,2.566-4.023,5.359-4.802,6.458c0.602,0.602,23.202,22.494,23.613,22.371   l-5.185,14.971L66.941,188.07l59.16,59.252l1.157-0.009C127.506,247.314,127.752,247.322,128,247.322z"/>
+	<path fill="#FFEB3B" d="M117.944,131.161l70.869,61.499l-28.695-64.656l-5.123-11.424c0,0,0.03-0.015,0.043-0.022l-0.043-0.097   c0,0,33.184-16.563,32.762-33.691c-0.229-3.677,0.692-43.657-113.855,1.433c-2.024,2.566-4.023,5.359-4.802,6.458   c5.485-1.663,77.206-22.981,76.269-0.297c-0.003,0.843-0.1,1.742-0.323,2.716c-1.883,8.218-10.335,14.966-16.689,16.977   c-2.55,0.603-3.031-0.553-3.006-1.572c-0.02-0.442,0.07-0.882,0.15-1.172c0.809-2.907,3.982-10.615,4.721-12.397l-33.806,7.427   l-8.887,25.661L66.941,188.07l34.879-11.882L117.944,131.161z"/>
+</g>
+
+	
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Robin, Dc, Superhero, Hero, Justice, League, Earth, Saver" dc:description="Robin, Dc, Superhero, Hero, Justice, League, Earth, Saver" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Sagar Unagar</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

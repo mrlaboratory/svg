@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g>
+	<g>
+		<path opacity="0.2" fill="#B71C1C" d="M128,247.322C62.1,247.322,8.678,193.9,8.678,128C8.678,194.274,62.1,248,128,248    s119.322-53.726,119.322-120C247.322,193.9,193.9,247.322,128,247.322z"/>
+		<path opacity="0.2" fill="#FFFFFF" d="M128,8.678C193.9,8.678,247.322,62.1,247.322,128C247.322,61.726,193.9,8,128,8    S8.678,61.726,8.678,128C8.678,62.1,62.1,8.678,128,8.678z"/>
+		<circle fill="#F44336" cx="128" cy="128" r="119.322"/>
+	</g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="111.418" y1="111.4077" x2="212.3785" y2="212.3682">
+		<stop offset="0" style="stop-color:#212121;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#212121;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M128,247.322c65.9,0,119.322-53.422,119.322-119.322c0-2.532-0.088-5.042-0.244-7.535l-0.024-0.381   c-0.024-0.368-0.043-0.737-0.07-1.103l-0.064-0.772c-0.019-0.228-0.041-0.455-0.061-0.683l-0.102-1.149   c-0.01-0.101-0.017-0.203-0.027-0.303l-0.124-1.222l-67.239-67.2l0,0l-78.483,74.29l9.522,8.893l-22.566,28.987l12.732,12.126   l-23.92,36.437l0,0l0,0l39.123,38.318c0.067,0.007,0.135,0.012,0.202,0.019l1.063,0.094c0.164,0.015,0.328,0.029,0.493,0.044   l0.773,0.069c0.264,0.021,0.526,0.044,0.79,0.063l0.487,0.031c0.369,0.026,0.74,0.048,1.11,0.07l0.176,0.011   C123.228,247.243,125.605,247.322,128,247.322z"/>
+	<polygon fill="#FFEB3B" points="146.864,99.354 146.714,99.353 179.366,47.652 100.884,121.942 117.328,121.942 117.289,121.992    117.328,121.992 112.612,128.001 87.839,159.821 108.358,159.821 108.182,160.087 108.358,160.087 76.652,208.385 157.156,136.168    137.744,136.168 137.797,136.101 137.744,136.101 144.17,127.997 166.328,99.82 146.714,99.589  "/>
+	<polygon opacity="0.2" fill="#BF360C" points="180.431,45.966 100.831,121.942 100.884,121.942 179.366,47.652  "/>
+</g>
+
+	
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Flash, Dc, Superhero, Fastest, Man, Hero, Justice, League, Earth, Saver" dc:description="Flash, Dc, Superhero, Fastest, Man, Hero, Justice, League, Earth, Saver" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Sagar Unagar</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
