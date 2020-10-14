@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#381478}
+    .fil1 {fill:#A59ECB}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1117" y="1164" width="15405" height="15311" style="fill: #381478;"/>
+  <rect class="fil1" x="2408" y="2447" width="12822" height="12744" style="fill: #A59ECB;"/>
+  <polygon class="fil0" points="13682,12796 12744,12783 12742,11826 11779,11830 11771,10774 10725,10742 10729,9828 9816,9816 9805,8909 9811,8835 9744,8839 8862,8821 8860,7822 7880,7818 7874,6836 6904,6825 6899,5850 5946,5845 5947,4859 4861,4857 4854,3975 3971,3977 3953,13664 13686,13654 " style="fill: #381478;"/>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Media_Encoder_CC_Creative Cloud" dc:description="Adobe_Media_Encoder_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

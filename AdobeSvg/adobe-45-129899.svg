@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#26003B}
+    .fil3 {fill:#D88FFC}
+    .fil2 {fill:#D990FC}
+    .fil0 {fill:#DA91FF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #DA91FF;"/>
+  <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #26003B;"/>
+  <g id="_1927316576">
+   <path class="fil2" d="M9499 5217l0 7032c4,135 57,147 157,150l844 -1c116,0 134,-21 135,-145l1 -3455c0,-1076 1623,-1034 1622,-1l0 3484c-2,112 53,119 116,118l907 0c132,1 138,-72 139,-121l3 -3464c1,-1052 -616,-1931 -1700,-1848 -496,39 -879,294 -995,375 -2,1 -5,3 -7,4 -4,3 -8,6 -11,8 -54,37 -74,28 -74,-6l-1 -2129 -1136 -1z" style="fill: #D990FC;"/>
+   <path class="fil3" d="M4166 8796c0,1978 971,3605 3149,3602 172,0 737,-35 1057,-134 135,-41 165,-93 164,-195 -2,-176 -11,-447 -13,-658 -1,-153 -30,-221 -221,-184 -234,45 -598,124 -994,98 -1338,-90 -1947,-1268 -1947,-2531 -2,-1869 1167,-2962 2900,-2446 228,85 307,151 324,-104 14,-198 21,-514 8,-718 -10,-171 3,-159 -167,-220 -349,-125 -813,-106 -1174,-101 -1865,24 -3086,1643 -3086,3591z" style="fill: #D88FFC;"/>
+  </g>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Character_Animator_CC_Creative Cloud" dc:description="Adobe_Character_Animator_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

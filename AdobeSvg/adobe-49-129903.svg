@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#140C00}
+    .fil0 {fill:#FF9100}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #FF9100;"/>
+  <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #140C00;"/>
+  <path class="fil0" d="M6284 7855l0 -1502c0,-13 45,-58 58,-58l1979 -5c58,0 91,-23 76,-86l-208 -895c-16,-51 -31,-87 -135,-88l-3112 6 0 7162 1342 0 -2 -3336 1984 -4c116,1 150,-11 150,-152l1 -842c1,-104 -50,-140 -162,-141l-1971 -1 0 -58z" style="fill: #FF9100;"/>
+  <path class="fil0" d="M12182 7188c-1143,-577 -3109,-297 -3109,1206 0,1118 775,1559 1721,1929 1346,525 39,1518 -1604,491 0,0 -58,-29 -88,0 -29,29 -29,58 -29,88 0,29 0,1078 0,1078 575,295 1003,444 1666,437 2137,-22 2445,-2069 1308,-2857 -206,-142 -758,-429 -933,-495 -903,-345 -826,-836 -540,-1083 317,-274 1196,141 1566,371 224,139 262,-33 260,-184l-3 -717c0,-171 -58,-185 -215,-264z" style="fill: #FF9100;"/>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Fuse_CC_Creative Cloud" dc:description="Adobe_Fuse_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

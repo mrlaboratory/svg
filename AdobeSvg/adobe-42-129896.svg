@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#261C00}
+    .fil0 {fill:#FBB500}
+    .fil2 {fill:#FBB500}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #FBB500;"/>
+  <rect class="fil1" x="2379" y="2418" width="12882" height="12803" style="fill: #261C00;"/>
+  <path class="fil2" d="M9989 8354l2 4048 1409 6 4 -3480 -4 -154c509,-445 840,-592 1540,-576 56,2 74,2 74,-69l0 -1023c4,-181 -35,-229 -243,-223 -555,19 -715,63 -1101,390 -82,70 -325,360 -325,360 0,-353 -79,-592 -177,-664 -67,-49 -84,-45 -183,-45l-186 -1 -780 -11c-87,15 -92,35 -90,133 10,443 59,754 60,1309z" style="fill: #FBB500;"/>
+  <path class="fil2" d="M7297 12398c14,-1 27,-2 40,-3 1481,-101 2129,-1070 2114,-1989 -13,-799 -344,-1452 -1224,-1670 -37,-9 -83,-22 -81,-37 1,-16 20,-40 55,-55 113,-47 247,-131 300,-161 526,-292 691,-792 706,-1270 16,-488 -186,-993 -551,-1369 -239,-247 -548,-442 -913,-535 -773,-196 -2285,-16 -3118,54l0 6976c955,49 1740,113 2672,59zm318 -1335c-353,252 -779,276 -1575,243l-2 -1988c270,-2 515,-2 773,-2 614,0 1113,267 1143,955 13,313 -103,625 -339,792zm-1124 -2857c-144,0 -287,-1 -455,-6l2 -31 2 -1830c0,0 848,0 906,8 593,74 847,460 856,862 7,317 -139,643 -391,833 -279,209 -593,163 -920,164z" style="fill: #FBB500;"/>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Bridge_CC_Creative Cloud" dc:description="Adobe_Bridge_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

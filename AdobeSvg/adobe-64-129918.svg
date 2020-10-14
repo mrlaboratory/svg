@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#141201}
+    .fil0 {fill:#FCE510}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <g id="_1927348288">
+   <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #FCE510;"/>
+   <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #141201;"/>
+   <path class="fil0" d="M9355 7126c202,0 496,-3 722,1 172,3 164,66 208,182 7,21 16,45 26,71 219,578 893,2354 893,2354l812 -2328c63,-180 85,-280 278,-281 231,-2 510,-3 749,0 261,4 173,216 138,319l-1916 5651c-45,158 -66,168 -368,168l-728 -1c-194,0 -297,-20 -218,-234l553 -1737 -1243 -3441c-62,-147 -144,-321 -171,-474 -43,-248 93,-251 265,-250z" style="fill: #FCE510;"/>
+   <path class="fil0" d="M6281 9403c601,231 1448,598 1090,1396 -360,801 -2007,195 -2720,-301 -133,-93 -251,-77 -245,188l-1 770c0,164 16,254 151,342 305,197 989,567 2040,606 1162,42 1995,-483 2249,-1684 63,-301 70,-630 7,-973 -272,-1483 -3156,-1540 -3030,-2748 109,-1050 1599,-588 2365,-293 343,133 328,166 326,-173l-4 -753c-1,-197 13,-175 -271,-269 -3976,-1319 -5204,2643 -1957,3892z" style="fill: #FCE510;"/>
+  </g>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Story Plus_CC_Creative Cloud" dc:description="Adobe_Story Plus_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

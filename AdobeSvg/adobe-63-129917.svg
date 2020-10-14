@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#002625}
+    .fil0 {fill:#00EAE4}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <g id="_1927346528">
+   <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #00EAE4;"/>
+   <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #002625;"/>
+   <path class="fil0" d="M6238 9396c602,232 1448,598 1090,1396 -359,801 -2007,196 -2719,-300 -134,-94 -252,-77 -245,187l-2 770c1,164 17,255 151,342 305,198 989,568 2041,606 1162,43 1995,-482 2248,-1683 64,-302 70,-631 7,-974 -271,-1483 -3156,-1540 -3030,-2748 110,-1049 1599,-588 2365,-292 343,132 329,166 327,-173l-4 -754c-1,-196 12,-174 -272,-268 -3976,-1320 -5203,2643 -1957,3891z" style="fill: #00EAE4;"/>
+   <path class="fil0" d="M11193 11931c483,-3 1020,160 1026,633 5,436 -518,653 -1030,638 -564,-15 -988,-201 -1011,-639 -14,-278 436,-630 1015,-632zm401 -3086c3,480 -81,840 -628,843 -571,5 -644,-443 -648,-846 -8,-1087 1270,-1147 1276,3zm-2382 3c0,654 148,1258 804,1470 -292,253 -399,684 4,1064 -224,91 -890,484 -970,1147 -6,55 -3,109 -2,159 36,1012 1147,1368 2143,1387 965,19 1848,-493 2045,-1276 40,-161 50,-295 32,-458 -129,-1200 -1486,-1314 -2290,-1322 -178,-81 -223,-373 -5,-503 792,69 1279,-419 1477,-834 165,-346 145,-1160 83,-1309l695 0 -3 -857 -1154 -8c-935,-814 -2858,-288 -2859,1340z" style="fill: #00EAE4;"/>
+  </g>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_SpeedGrade_CC_Creative Cloud" dc:description="Adobe_SpeedGrade_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

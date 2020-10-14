@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#0A3336}
+    .fil1 {fill:#80E8E8}
+    .fil2 {fill:#80E8E8}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <g id="_1927314304">
+   <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #0A3336;"/>
+   <g>
+    <path class="fil1" d="M10435 9795c0,-436 45,-850 289,-1216 51,-77 137,-193 195,-245 298,-270 797,-472 1329,-298l2 3311c-1041,301 -1815,-341 -1815,-1552zm1815 -2814l-424 -8c-813,0 -1493,392 -1862,781 -380,400 -736,1118 -736,1911 -1,868 160,1500 629,2050 332,390 978,747 1757,747 407,0 703,-21 1101,-129 194,-52 634,-195 750,-295 14,-73 -16,-288 -20,-382 -14,-394 -4,-921 -4,-1322l1 -5026c1,-99 6,-129 -99,-129l-995 0c-138,0 -98,84 -98,375l0 1427z" style="fill: #80E8E8;"/>
+    <path class="fil2" d="M6843 12354c13,-1 26,-2 39,-3 1482,-101 2129,-1071 2114,-1989 -13,-799 -343,-1452 -1224,-1670 -36,-9 -82,-22 -81,-37 2,-16 20,-40 56,-55 112,-47 246,-131 300,-161 525,-292 691,-792 706,-1270 15,-488 -186,-993 -551,-1369 -239,-247 -548,-442 -913,-535 -773,-196 -2285,-16 -3119,54l0 6976c956,49 1741,113 2673,59zm318 -1335c-353,252 -780,276 -1575,243l-3 -1988c270,-2 516,-2 774,-2 614,0 1113,267 1143,955 13,313 -103,625 -339,792zm-1124 -2857c-144,0 -287,-1 -456,-6l2 -31 2 -1830c0,0 848,0 907,8 593,74 847,460 855,862 7,317 -139,643 -391,833 -278,209 -593,163 -919,164z" style="fill: #80E8E8;"/>
+   </g>
+  </g>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_PhoneGap Build_CC_Creative Cloud" dc:description="Adobe_PhoneGap Build_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

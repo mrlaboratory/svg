@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#2B0028}
+    .fil0 {fill:#FF5FF8}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #FF5FF8;"/>
+  <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #2B0028;"/>
+  <g id="_1927351200">
+   <path class="fil0" d="M8106 9796c42,1821 1531,3073 3942,2254 2,-364 -85,-829 -276,-1054 -268,38 -433,149 -780,165 -1974,92 -1995,-2937 -256,-3000 369,-13 649,55 1002,144 184,-240 248,-708 237,-1014 -480,-282 -1580,-333 -2197,-161 -1204,336 -1699,1512 -1672,2666z" style="fill: #FF5FF8;"/>
+   <path class="fil0" d="M7026 12191l-2 -7003c-382,-116 -1051,-118 -1433,3l2 6999c393,88 1057,86 1433,1z" style="fill: #FF5FF8;"/>
+  </g>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_InCopy_CC_Creative Cloud" dc:description="Adobe_InCopy_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

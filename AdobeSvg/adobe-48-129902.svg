@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#2F2A2C}
+    .fil0 {fill:#B3A3A8}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #B3A3A8;"/>
+  <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #2F2A2C;"/>
+  <path class="fil0" d="M12010 9839c0,-436 -44,-850 -288,-1216 -52,-77 -137,-193 -195,-245 -299,-270 -798,-471 -1329,-298l-3 3311c1042,301 1815,-341 1815,-1552zm-1814 -2814l424 -8c812,0 1492,393 1862,781 380,400 735,1118 736,1911 0,868 -161,1500 -630,2050 -332,390 -977,747 -1756,747 -408,0 -703,-21 -1102,-129 -194,-52 -634,-195 -750,-295 -13,-73 17,-288 20,-382 15,-394 5,-921 5,-1322l-1 -5026c-1,-99 -7,-129 99,-129l995 0c137,0 98,85 98,375l0 1427z" style="fill: #B3A3A8;"/>
+  <path class="fil0" d="M6174 7869l0 -1502c0,-13 46,-58 58,-58l1980 -4c58,-1 90,-23 75,-87l-208 -895c-16,-51 -30,-87 -134,-87l-3112 5 0 7162 1341 0 -1 -3335 1984 -4c116,0 149,-11 150,-153l0 -841c1,-104 -50,-140 -161,-141l-1972 -1 0 -59z" style="fill: #B3A3A8;"/>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Flash_Builder_CC_Creative Cloud" dc:description="Adobe_Flash_Builder_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

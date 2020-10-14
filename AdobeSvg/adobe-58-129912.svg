@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="176.389mm" height="176.389mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 17639 17639">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#002026}
+    .fil0 {fill:#00DBFF}
+    .fil2 {fill:#00DBFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  
+  <rect class="fil0" x="1082" y="1129" width="15476" height="15381" style="fill: #00DBFF;"/>
+  <rect class="fil1" x="2379" y="2302" width="12882" height="12803" style="fill: #002026;"/>
+  <path class="fil2" d="M5147 5287l0 7090 1411 2 0 -2236c481,0 982,-2 1385,-91 530,-118 904,-358 1236,-707 349,-364 619,-868 619,-1619 0,-1736 -1133,-2559 -2909,-2499l-1742 60zm1411 3735l2 -2650c590,-12 1104,-5 1442,295 265,235 363,491 353,1089 -19,1158 -794,1266 -1797,1266zm5471 -3763l-1441 0 15 5849c19,1446 1016,1475 1797,1112 50,-24 86,-79 87,-124l5 -610c1,-146 -18,-150 -158,-124 -158,29 -344,-76 -327,-427 4,-76 7,-555 7,-555l15 -5121z" style="fill: #00DBFF;"/>
+ </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Adobe_Prelude_CC_Creative Cloud" dc:description="Adobe_Prelude_CC_Creative Cloud" dc:publisher="Iconscout" dc:date="2017-04-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alexander Panasovsky</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
