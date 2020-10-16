@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="cloud-download.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.18624688" inkscape:cx="1190.9475" inkscape:cy="-14.536408" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 1194.6667,974.5333 q 0,-13.06666 -8.4,-21.46667 -8.4,-8.4 -21.4667,-8.4 l -209.06667,0 0,-328.53334 q 0,-12.13333 -8.86666,-21 -8.86667,-8.86666 -21,-8.86666 l -179.2,0 q -12.13334,0 -21,8.86666 Q 716.8,603.99997 716.8,616.1333 l 0,328.53334 -209.06667,0 q -12.13333,0 -21,8.86666 -8.86666,8.86667 -8.86666,21 0,13.06667 8.4,21.4667 L 814.8,1324.5333 q 8.4,8.4 21.46667,8.4 13.06666,0 21.46666,-8.4 l 327.59997,-327.6 q 9.3334,-11.20001 9.3334,-22.4 z M 1792,1183.6 q 0,148.4 -105,253.4 -105,105 -253.4,105 l -1015.46667,0 q -172.66666,0 -295.4,-122.7333 Q 0,1296.5333 0,1123.8667 0,1002.5333 65.333333,899.86664 130.66667,797.19997 240.8,745.86664 q -1.86667,-28 -1.86667,-40.13334 0,-197.86666 140,-337.86666 140,-140 337.86667,-140 145.6,0 266.46667,81.2 120.86663,81.2 175.93333,215.59999 66.2667,-57.86666 154.9333,-57.86666 98.9334,0 168.9334,69.99999 70,70 70,168.93334 0,70.93334 -38.2667,128.8 121.3333,28.93334 199.2667,126.46667 Q 1792,1058.5333 1792,1183.6 Z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Cloud, Download, Internet, Data, Sharing, Free" dc:description="Cloud, Download, Internet, Data, Sharing, Free" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

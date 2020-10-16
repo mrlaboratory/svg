@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="cubes.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:zoom="0.13169643" inkscape:cx="970.38013" inkscape:cy="1198.4915" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 527.05882,1479.338 316.2353,-158.1177 0,-258.5882 -316.2353,135.0588 0,281.6471 z M 474.35294,1105.4556 807.05882,962.98509 474.35294,820.51449 141.64706,962.98509 Z m 895.99996,373.8824 316.2353,-158.1177 0,-258.5882 -316.2353,135.0588 0,281.6471 z M 1317.6471,1105.4556 1650.3529,962.9851 1317.6471,820.5145 984.94118,962.9851 Z M 948.70588,864.16149 1264.9412,728.27916 l 0,-219.05882 -316.23532,135.05882 0,219.88233 z M 896,552.04387 1259.1765,396.39681 896,240.74975 532.82353,396.39681 Z m 896,426.58827 0,342.58816 q 0,29.6471 -15.6471,55.1765 -15.647,25.5294 -42.8235,38.7059 l -368.9412,184.4706 q -20.5882,11.5294 -46.9411,11.5294 -26.353,0 -46.9412,-11.5294 L 901.76471,1415.1027 q -4.11765,-1.6471 -5.76471,-3.2941 -1.64706,1.647 -5.76471,3.2941 l -368.94117,184.4706 q -20.58824,11.5294 -46.94118,11.5294 -26.35294,0 -46.94118,-11.5294 L 58.47059,1415.1027 Q 31.29412,1401.9262 15.64706,1376.3968 0,1350.8674 0,1321.2203 L 0,978.63214 Q 0,947.338 17.70588,920.9851 35.41176,894.6321 64.23529,881.4556 l 357.41177,-153.17643 0,-329.41176 q 0,-31.29412 17.70588,-57.64706 17.70588,-26.35294 46.52941,-39.52941 L 854.82353,143.57328 q 18.94118,-8.2353 41.17647,-8.2353 22.23529,0 41.17647,8.2353 l 368.94113,158.11765 q 28.8236,13.17647 46.5295,39.52941 17.7058,26.35294 17.7058,57.64706 l 0,329.41177 357.4118,153.17643 q 29.6471,13.1765 46.9412,39.5295 Q 1792,947.338 1792,978.63214 Z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Cubes, Symmetrical, Three, Dimensional, Shape, Design" dc:description="Cubes, Symmetrical, Three, Dimensional, Shape, Design" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

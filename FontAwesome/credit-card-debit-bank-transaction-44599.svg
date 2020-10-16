@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="credit-card.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.065848214" inkscape:cx="-161.29075" inkscape:cy="785.57233" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 1642.6667,178.4 q 61.6,0 105.4666,43.86667 Q 1792,266.13333 1792,327.73333 l 0,1134.93337 q 0,61.6 -43.8667,105.4666 Q 1704.2667,1612 1642.6667,1612 l -1493.33337,0 Q 87.733333,1612 43.866667,1568.1333 0,1524.2667 0,1462.6667 L 0,327.73333 q 0,-61.6 43.866667,-105.46666 Q 87.733333,178.4 149.33333,178.4 l 1493.33337,0 z M 149.33333,297.86667 q -12.13333,0 -21,8.86666 -8.86666,8.86667 -8.86666,21 l 0,209.06667 1553.06663,0 0,-209.06667 q 0,-12.13333 -8.8666,-21 -8.8667,-8.86666 -21,-8.86666 l -1493.33337,0 z M 1642.6667,1492.5333 q 12.1333,0 21,-8.8666 8.8666,-8.8667 8.8666,-21 l 0,-567.4667 -1553.06663,0 0,567.4667 q 0,12.1333 8.86666,21 8.86667,8.8666 21,8.8666 l 1493.33337,0 z m -1403.73337,-119.4666 0,-119.4667 238.93334,0 0,119.4667 -238.93334,0 z m 358.4,0 0,-119.4667 358.4,0 0,119.4667 -358.4,0 z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Credit, Card, Debit, Bank, Transaction" dc:description="Credit, Card, Debit, Bank, Transaction" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

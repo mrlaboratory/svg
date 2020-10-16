@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="battery-1.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.18624688" inkscape:cx="-103.02332" inkscape:cy="756.85726" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 199.11111,1192.8889 0,-597.33337 398.22222,0 0,597.33337 -398.22222,0 z M 1692.4444,645.3333 q 41.2223,0 70.3889,29.16667 Q 1792,703.66664 1792,744.88886 l 0,298.66674 q 0,41.2222 -29.1667,70.3888 -29.1666,29.1667 -70.3889,29.1667 l 0,124.4445 q 0,51.3333 -36.5555,87.8888 Q 1619.3333,1392 1568,1392 l -1443.55556,0 Q 73.11111,1392 36.55556,1355.4444 0,1318.8889 0,1267.5556 L 0,520.88886 q 0,-51.33333 36.55556,-87.88889 36.55555,-36.55556 87.88888,-36.55556 l 1443.55556,0 q 51.3333,0 87.8889,36.55556 36.5555,36.55556 36.5555,87.88889 l 0,124.44444 z m 0,398.2223 0,-298.66674 -99.5555,0 0,-224 q 0,-10.88889 -7,-17.88889 -7,-7 -17.8889,-7 l -1443.55556,0 q -10.88888,0 -17.88888,7 -7,7 -7,17.88889 l 0,746.66674 q 0,10.8888 7,17.8888 7,7 17.88888,7 l 1443.55556,0 q 10.8889,0 17.8889,-7 7,-7 7,-17.8888 l 0,-224 99.5555,0 z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Battery, Charge, Law, Charging, Damage, Require" dc:description="Battery, Charge, Law, Charging, Damage, Require" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="bar chart column graph statistics analysis.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.13169643" inkscape:cx="651.4192" inkscape:cy="410.99113" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="M 560,905.00003 560,1353 l -224,0 0,-447.99997 224,0 z m 336,-448 0,895.99997 -224,0 0,-895.99997 224,0 z M 1792,1465 l 0,112 -1792,0 0,-1343.99997 112,0 0,1231.99997 1680,0 z M 1232,681.00003 1232,1353 l -224,0 0,-671.99997 224,0 z m 336,-336 0,1007.99997 -224,0 0,-1007.99997 224,0 z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Bar, Chart, Column, Graph, Statistics, Analysis" dc:description="Bar, Chart, Column, Graph, Statistics, Analysis" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

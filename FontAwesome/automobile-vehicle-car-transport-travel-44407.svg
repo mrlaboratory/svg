@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="automobile vehicle car transport travel.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.18624688" inkscape:cx="-24.178728" inkscape:cy="592.36241" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 420,1042 q 0,-57.74997 -41.125,-98.87497 -41.125,-41.125 -98.875,-41.125 -57.75,0 -98.875,41.125 Q 140,984.25003 140,1042 q 0,57.75 41.125,98.875 Q 222.25,1182 280,1182 q 57.75,0 98.875,-41.125 Q 420,1099.75 420,1042 Z m 31.5,-279.99997 889,0 -77.875,-312.375 q -1.75,-7 -12.25,-15.3125 -10.5,-8.3125 -18.375,-8.3125 l -672,0 q -7.875,0 -18.375,8.3125 -10.5,8.3125 -12.25,15.3125 z M 1652,1042 q 0,-57.74997 -41.125,-98.87497 -41.125,-41.125 -98.875,-41.125 -57.75,0 -98.875,41.125 Q 1372,984.25003 1372,1042 q 0,57.75 41.125,98.875 Q 1454.25,1182 1512,1182 q 57.75,0 98.875,-41.125 Q 1652,1099.75 1652,1042 Z M 1792,958.00003 1792,1294 q 0,12.25 -7.875,20.125 Q 1776.25,1322 1764,1322 l -84,0 0,112 q 0,70 -49,119 -49,49 -119,49 -70,0 -119,-49 -49,-49 -49,-119 l 0,-112 -896,0 0,112 q 0,70 -49,119 -49,49 -119,49 -70,0 -119,-49 -49,-49 -49,-119 l 0,-112 -84,0 Q 15.75,1322 7.875,1314.125 0,1306.25 0,1294 L 0,958.00003 Q 0,876.62503 57.3125,819.31253 114.625,762.00003 196,762.00003 l 24.5,0 91.875,-366.625 q 20.125,-82.25 91,-137.8125 70.875,-55.5625 156.625,-55.5625 l 672,0 q 85.75,0 156.625,55.5625 70.875,55.5625 91,137.8125 l 91.875,366.625 24.5,0 q 81.375,0 138.6875,57.3125 Q 1792,876.62503 1792,958.00003 Z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Automobile, Vehicle, Car, Transport, Travel" dc:description="Automobile, Vehicle, Car, Transport, Travel" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

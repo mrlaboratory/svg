@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="graduation-cap.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.37249375" inkscape:cx="649.9772" inkscape:cy="449.16323" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 1379.7778,848.00004 14,245.77776 q 3.1111,53.6666 -63.7778,99.5555 -66.8889,45.8889 -182.7778,72.7223 -115.8889,26.8333 -251.2222,26.8333 -135.33333,0 -251.22222,-26.8333 Q 528.88889,1239.2222 462,1193.3333 q -66.88889,-45.8889 -63.77778,-99.5555 l 14,-245.77776 446.44445,140.77781 q 17.11111,5.4444 37.33333,5.4444 20.22222,0 37.33333,-5.4444 z m 412.2222,-252 q 0,17.88888 -17.1111,24.11111 L 903.77778,893.88893 q -3.11111,0.77781 -7.77778,0.77781 -4.66667,0 -7.77778,-0.77781 L 381.11111,733.6667 q -33.44444,26.44444 -55.22222,86.72222 -21.77778,60.27782 -26.44445,138.83331 49,28 49,84.77777 0,53.6667 -45.11111,83.2222 L 348.44444,1464 q 1.55556,10.8889 -6.22222,19.4444 -7,8.5556 -18.66666,8.5556 l -149.33334,0 q -11.66666,0 -18.66666,-8.5556 -7.77778,-8.5555 -6.22223,-19.4444 l 45.11111,-336.7778 Q 149.33333,1097.6667 149.33333,1044 q 0,-56.77777 50.55556,-86.33326 8.55555,-161.00004 76.22222,-256.6667 l -259,-80.88889 Q 0,613.88892 0,596.00004 0,578.11115 17.11111,571.88892 L 888.22222,298.11115 q 3.11111,-0.77778 7.77778,-0.77778 4.66667,0 7.77778,0.77778 L 1774.8889,571.88892 Q 1792,578.11115 1792,596.00004 Z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Graduation, Cap, Hat, Study, Degree" dc:description="Graduation, Cap, Hat, Study, Degree" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

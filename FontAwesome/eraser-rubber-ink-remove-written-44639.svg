@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="eraser.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.093123438" inkscape:cx="-298.3689" inkscape:cy="1378.2336" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 836.26515,1372.5303 313.60795,-358.4091 -716.81819,0 -313.60797,358.4091 716.81821,0 z M 1781.7558,367.30477 q 14.0004,31.73414 8.8669,66.73503 -5.1334,35.00089 -28.4674,61.13488 L 925.86743,1450.9323 Q 890.39986,1492 836.26515,1492 l -716.81821,0 q -35.46757,0 -64.868318,-19.1338 -29.400746,-19.1338 -44.334459,-50.868 -14.0003562,-31.7341 -8.8668922,-66.735 5.133464,-35.0009 28.4673902,-61.1349 L 866.13257,338.3707 q 35.46757,-41.06771 89.60228,-41.06771 l 716.81825,0 q 35.4675,0 64.8683,19.13382 29.4007,19.13382 44.3344,50.86796 z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Eraser, Rubber, Ink, Remove, Written" dc:description="Eraser, Rubber, Ink, Remove, Written" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

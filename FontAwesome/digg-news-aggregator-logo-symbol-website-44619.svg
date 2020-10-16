@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1792" height="1792" viewBox="0 0 1792 1792" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="digg.svg">
+  
+  <defs/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="705" showgrid="true" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:zoom="0.26339286" inkscape:cx="259.71383" inkscape:cy="590.19686" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2">
+    <inkscape:grid type="xygrid"/>
+  </sodipodi:namedview>
+  <path d="m 286.84567,347.5 178.5,0 0,860.125 -465.50000145,0 0,-609.875 287.00000145,0 0,-250.25 z m 0,716.625 0,-322.875 -107.625,0 0,322.875 107.625,0 z m 250.25,-466.375 0,609.875 179.375,0 0,-609.875 -179.375,0 z m 0,-250.25 0,178.5 179.375,0 0,-178.5 -179.375,0 z m 251.125,250.25 466.37503,0 0,824.25 -466.37503,0 0,-142.625 287.00003,0 0,-71.75 -287.00003,0 0,-609.875 z m 287.00003,466.375 0,-322.875 -107.62503,0 0,322.875 107.62503,0 z m 251.125,-466.375 465.5,0 0,824.25 -465.5,0 0,-142.625 286.125,0 0,-71.75 -286.125,0 0,-609.875 z m 286.125,466.375 0,-322.875 -107.625,0 0,322.875 107.625,0 z" inkscape:connector-curvature="0"/>
+
+	
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Digg, News, Aggregator, Logo, Symbol, Website" dc:description="Digg, News, Aggregator, Logo, Symbol, Website" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Font Awesome</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
